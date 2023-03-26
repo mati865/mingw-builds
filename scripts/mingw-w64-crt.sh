@@ -55,6 +55,7 @@ PKG_PATCHES=(
 		    echo "mingw-w64/bceadc54d8f32b3f14c69074892e2718eac08e3b.patch"
 		}
 	)
+  "mingw-w64/b927a6c9a3791febce672e62f092ff00bae9546c.patch"
 )
 
 #
