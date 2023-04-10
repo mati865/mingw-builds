@@ -56,6 +56,7 @@ PKG_PATCHES=(
 		}
 	)
   "mingw-w64/b927a6c9a3791febce672e62f092ff00bae9546c.patch"
+  "mingw-w64/mkstemp.patch"
 )
 
 #
